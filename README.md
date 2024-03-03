@@ -1,7 +1,5 @@
-Título:
 API de Exemplo: Aplicativo de Lista de Tarefas (To-do) em C#
 
-Descrição:
 Esta API exemplifica um aplicativo "To-do" construído em C# utilizando uma arquitetura robusta que incorpora conceitos avançados de desenvolvimento, incluindo domínios ricos, autenticação no Firebase, separação por domínio e princípios SOLID. Foi projetada para fornecer uma base sólida para sistemas escaláveis e de alta qualidade.
 
 Recursos Principais:
